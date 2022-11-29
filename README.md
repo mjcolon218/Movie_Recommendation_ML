@@ -1,7 +1,8 @@
 # Movie_Recommendation_ML
 # Cosine Similarity
 # StreamLit
-
+# Pandas
+# Numpy 
 
 
 👋 Hi, I’m @mjcolon218
